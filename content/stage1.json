@@ -1,36 +1,193 @@
 {
   "app": {
     "name": "Sevak Marg",
-    "stage": 1,
-    "version": "1.0"
+    "tagline": "Seva se Smaran tak",
+    "stage": 1
   },
 
   "daily_sevak_vichar": [
     {
       "day": 1,
-      "title": "Seva ka Arambh",
-      "vichar": "..."
-    }
-  ],
-
-  "bhagwan_se_baat": [
+      "title": "Sevak ka Arambh",
+      "vichar": "Bhakti ka arambh tab hota hai jab ahankar chup ho jata hai. Sevak banna hi sabse badi sadhana hai.",
+      "reflection": "Aaj apne har karm ko seva maan kar karein."
+    },
     {
-      "id": 1,
-      "question": "...",
-      "answer": "..."
+      "day": 2,
+      "title": "Bhav ka Mulya",
+      "vichar": "Bhagwan ko shabd nahi, bhav chahiye. Shuddh bhav me ki gayi seva swayam pooja ban jaati hai.",
+      "reflection": "Aaj ek kaam sirf prem se karein."
+    },
+    {
+      "day": 3,
+      "title": "Smaran ki Shakti",
+      "vichar": "Jahan mann bhagwan ka smaran karta hai, wahan bhay tik nahi pata. Smaran hi raksha hai.",
+      "reflection": "Chalte chalte naam ka smaran karein."
+    },
+    {
+      "day": 4,
+      "title": "Surrender",
+      "vichar": "Jab sab apne haath me rakhna chhod dete hain, tab bhagwan ka haath pakad pate hain.",
+      "reflection": "Aaj ek chinta bhagwan ko saunp dein."
+    },
+    {
+      "day": 5,
+      "title": "Seva ka Phal",
+      "vichar": "Sevak phal nahi poochta, sevak bhagwan par chhod deta hai. Yahi uski shanti hai.",
+      "reflection": "Phal ki ichha chhod kar karm karein."
+    },
+    {
+      "day": 6,
+      "title": "Antar ki Yatra",
+      "vichar": "Bahar bhatakne se pehle andar jhaankna seekhein. Bhakti antar se shuru hoti hai.",
+      "reflection": "Do minute aankh band kar ke baithiye."
+    },
+    {
+      "day": 7,
+      "title": "Vishwas",
+      "vichar": "Bhagwan par poora vishwas ho to akelaapan bhi sath ban jata hai.",
+      "reflection": "Aaj har paristhiti me vishwas rakhein."
+    },
+    {
+      "day": 8,
+      "title": "Naam ki Madhurta",
+      "vichar": "Naam ka uchcharan nahi, ras ka anubhav hona chahiye. Naam me hi bhagwan ka vaas hai.",
+      "reflection": "Naam ko mehsoos kar ke japein."
+    },
+    {
+      "day": 9,
+      "title": "Vinamrta",
+      "vichar": "Vinamr sevak bhagwan ke sabse nikat hota hai. Jhukna kamzori nahi, bhakti hai.",
+      "reflection": "Aaj apne ego ko thoda shaant karein."
+    },
+    {
+      "day": 10,
+      "title": "Dhairya",
+      "vichar": "Bhagwan ka samay sahi hota hai, bas hume dhairya seekhna hota hai.",
+      "reflection": "Intezaar ko tapasya maan lein."
+    },
+    {
+      "day": 11,
+      "title": "Shanti",
+      "vichar": "Shanti bahar nahi milti, shanti bhagwan ke smaran se utarti hai.",
+      "reflection": "Aaj kam bolein, zyada mehsoos karein."
+    },
+    {
+      "day": 12,
+      "title": "Tyag",
+      "vichar": "Jo chhodna seekh leta hai, wahi paane yogya ban jata hai. Bhakti tyag se gehri hoti hai.",
+      "reflection": "Aaj ek vasana ka tyag karein."
+    },
+    {
+      "day": 13,
+      "title": "Karuna",
+      "vichar": "Sevak ka hriday karuna se bhara hota hai. Karuna hi bhagwan ka swaroop hai.",
+      "reflection": "Aaj kisi ko maaf karein."
+    },
+    {
+      "day": 14,
+      "title": "Ekagra Mann",
+      "vichar": "Jahan mann tik jata hai, wahi bhakti phalti hai. Ekagra mann hi sadhana hai.",
+      "reflection": "Ek kaam ek mann se karein."
+    },
+    {
+      "day": 15,
+      "title": "Marg par Chalna",
+      "vichar": "Sevak ka kaam pahunchna nahi, marg par chalna hai. Chalna hi kripa hai.",
+      "reflection": "Aaj bas marg par bane rahen."
     }
   ],
 
-  "naam_jap": {
-    "mantra": "ॐ नमः शिवाय",
-    "count": 108
+  "bhagwan_se_baat": {
+    "dukh": [
+      {
+        "question": "Bhagwan, dukh itna kyu hai?",
+        "answer": "Kyunki tumne mujhe yaad karna dukh ke baad seekha hai, pehle nahi.",
+        "pause": "Kuch pal chup raho…"
+      },
+      {
+        "question": "Main thak gaya hoon.",
+        "answer": "Jab tum thakte ho, tabhi mujhe yaad karte ho — wahi meri bulahat hai.",
+        "pause": "Saans par dhyan do…"
+      },
+      {
+        "question": "Kya main akela hoon?",
+        "answer": "Tum mujhe bhool jaate ho, par main tumhe kabhi nahi bhoolta.",
+        "pause": "Mere paas baith jao…"
+      },
+      {
+        "question": "Dard kab khatam hoga?",
+        "answer": "Jab tum dard ko mujhe saunp doge.",
+        "pause": "Mann ko dheere karo…"
+      },
+      {
+        "question": "Main kyun rota hoon?",
+        "answer": "Kyunki aansuon se hriday halka hota hai, phir bhakti utarti hai.",
+        "pause": "Aankh band karo…"
+      }
+    ],
+
+    "vishwas": [
+      {
+        "question": "Mujh par bharosa kaise rakhu?",
+        "answer": "Mujh par bharosa rakho, tum swayam sambhal jaoge.",
+        "pause": "Vishwas me ruk jao…"
+      },
+      {
+        "question": "Kya aap mere saath ho?",
+        "answer": "Main tumhare saath nahi, tumhare andar hoon.",
+        "pause": "Andar mehsoos karo…"
+      },
+      {
+        "question": "Jab sab chhod dete hain?",
+        "answer": "Tab main tumhe thaam leta hoon.",
+        "pause": "Mujhe pakad lo…"
+      },
+      {
+        "question": "Bharosa toot jata hai.",
+        "answer": "Insaan par tha, mujh par nahi.",
+        "pause": "Saans dheemi karo…"
+      },
+      {
+        "question": "Vishwas kamzor ho raha hai.",
+        "answer": "Naam ka smaran badhao, vishwas swayam badega.",
+        "pause": "Naam me ruko…"
+      }
+    ],
+
+    "vasana": [
+      {
+        "question": "Main apne mann ko kyu nahi jeet pata?",
+        "answer": "Kyunki tum use dabate ho, samarpit nahi karte.",
+        "pause": "Mann ko mujhe do…"
+      },
+      {
+        "question": "Galti baar-baar kyu hoti hai?",
+        "answer": "Kyunki abhyaas kam hai, kripa nahi.",
+        "pause": "Phir se shuru karo…"
+      },
+      {
+        "question": "Kaamna rukti nahi.",
+        "answer": "Naam me ras badhao, vasana dheemi padegi.",
+        "pause": "Naam ko mehsoos karo…"
+      },
+      {
+        "question": "Main sharminda hoon.",
+        "answer": "Paschataap shuddhi hai, bhaagna nahi.",
+        "pause": "Sir jhukao…"
+      },
+      {
+        "question": "Main sudhar paunga?",
+        "answer": "Jo mujhe yaad karta hai, wahi badalta hai.",
+        "pause": "Vishwas rakho…"
+      }
+    ]
   },
 
-  "marg_darshan": [
-    {
-      "id": 1,
-      "title": "...",
-      "content": "..."
-    }
-  ]
+  "naam_smaran": {
+    "naam": "राम",
+    "meaning": "Jo hriday me vishram deta hai",
+    "count": 108
+  }
 }
+
