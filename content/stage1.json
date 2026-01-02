@@ -1,0 +1,36 @@
+{
+  "app": {
+    "name": "Sevak Marg",
+    "stage": 1,
+    "version": "1.0"
+  },
+
+  "daily_sevak_vichar": [
+    {
+      "day": 1,
+      "title": "Seva ka Arambh",
+      "vichar": "..."
+    }
+  ],
+
+  "bhagwan_se_baat": [
+    {
+      "id": 1,
+      "question": "...",
+      "answer": "..."
+    }
+  ],
+
+  "naam_jap": {
+    "mantra": "ॐ नमः शिवाय",
+    "count": 108
+  },
+
+  "marg_darshan": [
+    {
+      "id": 1,
+      "title": "...",
+      "content": "..."
+    }
+  ]
+}
