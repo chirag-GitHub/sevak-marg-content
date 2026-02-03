@@ -1,39 +1,22 @@
 {
-  "quotes": [
+  "data": [
     {
       "id": 1,
-      "text": "You have the right to perform your duties, but not the fruits of your actions.",
-      "author": "Bhagavad Gita",
-      "category": "Karma"
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs",
+      "category": "Motivation",
+      "created_at": 1700000000
     },
     {
       "id": 2,
-      "text": "Change is the law of the universe.",
-      "author": "Krishna",
-      "category": "Life"
-    },
-    {
-      "id": 3,
-      "text": "A man is made by his belief. As he believes, so he becomes.",
-      "author": "Bhagavad Gita",
-      "category": "Mind"
-    },
-    {
-      "id": 4,
-      "text": "The soul is neither born, nor does it ever die.",
-      "author": "Krishna",
-      "category": "Soul"
-    },
-    {
-      "id": 5,
-      "text": "Perform your duty and abandon all attachment to success or failure.",
-      "author": "Bhagavad Gita",
-      "category": "Discipline"
+      "text": "Peace comes from within. Do not seek it without.",
+      "author": "Buddha",
+      "category": "Peace",
+      "created_at": 1700000001
     }
   ],
   "meta": {
-    "total": 5,
-    "page": 1,
-    "limit": 10
+    "current_page": 1,
+    "total": 2
   }
 }
